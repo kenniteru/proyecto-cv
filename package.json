@@ -1,0 +1,14 @@
+{
+  "name": "gera-coceres",
+  "version": "1.0.0",
+  "description": "Sitio web basico de presentacion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerardo Coceres (GRC)",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
